@@ -1,4 +1,4 @@
-# Sport Recognition Project
+# Sport Recognition Project (in progress)
 
 ## Overview
 
